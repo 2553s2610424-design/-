@@ -1,0 +1,6 @@
+import streamlit as st
+from datetime import date
+
+st.set_page_config(page_title="스케줄 관리", page_icon="📅")
+
+st.title("📅 오늘의 스케줄")
